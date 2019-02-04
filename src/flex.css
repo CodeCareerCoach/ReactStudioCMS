@@ -1,0 +1,187 @@
+:global .d-flex {
+  display: flex;
+}
+
+:global .flex-ais {
+  align-items: start;
+}
+
+:global .flex-aic {
+  align-items: center;
+}
+
+:global .flex-ai-stretch {
+  align-items: stretch;
+}
+
+:global .flex-ais {
+  align-items: flex-start;
+}
+
+:global .flex-aie {
+  align-items: flex-end;
+}
+
+:global .flex-asfs {
+  align-self: flex-start;
+}
+
+:global .flex-asc {
+  align-self: center;
+}
+
+:global .flex-asfe {
+  align-self: flex-end;
+}
+
+:global .flex-fdc {
+  flex-direction: column;
+}
+
+:global .flex-fdr {
+  flex-direction: row;
+}
+
+:global .flex-fdcr {
+  flex-direction: column-reverse;
+}
+
+:global .flex-fdrr {
+  flex-direction: row-reverse;
+}
+
+:global .flex-grow-1 {
+  flex-grow: 1;
+}
+
+:global .flex-grow-2 {
+  flex-grow: 2;
+}
+
+:global .flex-jc {
+  justify-content: center;
+}
+
+:global .flex-jsa {
+  justify-content: space-around;
+}
+
+:global .flex-jsb {
+  justify-content: space-between;
+}
+
+:global .flex-jse {
+  justify-content: space-evenly;
+}
+
+:global .flex-jfe {
+  justify-content: flex-end;
+}
+
+:global .flex-jfs {
+  justify-content: flex-start;
+}
+
+:global .flex-frw {
+  flex-flow: row wrap;
+}
+
+:global .flex-frnw {
+  flex-flow: row nowrap;
+}
+
+:global .pos-a {
+  position: absolute;
+}
+
+:global .pos-f {
+  position: fixed;
+}
+
+:global .pos-r {
+  position: relative;
+}
+
+:global .pos-s {
+  position: static;
+}
+
+:global .w-10 {
+  width: 10%;
+}
+
+:global .w-15 {
+  width: 10%;
+}
+
+:global .w-20 {
+  width: 20%;
+}
+
+:global .w-25 {
+  width: 20%;
+}
+
+:global .w-30 {
+  width: 30%;
+}
+
+:global .w-35 {
+  width: 30%;
+}
+
+:global .w-40 {
+  width: 40%;
+}
+
+:global .w-45 {
+  width: 40%;
+}
+
+:global .w-50 {
+  width: 50%;
+}
+
+:global .w-55 {
+  width: 50%;
+}
+
+:global .w-60 {
+  width: 60%;
+}
+
+:global .w-65 {
+  width: 60%;
+}
+
+:global .w-70 {
+  width: 70%;
+}
+
+:global .w-75 {
+  width: 70%;
+}
+
+:global .w-80 {
+  width: 80%;
+}
+
+:global .w-85 {
+  width: 80%;
+}
+
+:global .w-90 {
+  width: 90%;
+}
+
+:global .w-95 {
+  width: 90%;
+}
+
+:global .w-100 {
+  width: 100%;
+}
+
+:global .w-100-vw {
+  width: 100vw;
+}

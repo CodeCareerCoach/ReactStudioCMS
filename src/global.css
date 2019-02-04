@@ -1,0 +1,102 @@
+:global .pad-h-4 {
+  padding: 4px 0;
+}
+
+:global .pad-h-8 {
+  padding: 8px 0;
+}
+
+:global .pad-h-16 {
+  padding: 16px 0;
+}
+
+:global .pad-h-32 {
+  padding: 32px 0;
+}
+
+:global .pad-w-4 {
+  padding: 0 4px;
+}
+
+:global .pad-w-8 {
+  padding: 0 8px;
+}
+
+:global .pad-w-16 {
+  padding: 0 16px;
+}
+:global .pad-w-32 {
+  padding: 0 32px;
+}
+
+:global .pad-0 {
+  padding: 0;
+}
+
+:global .pad-4 {
+  padding: 4px;
+}
+
+:global .pad-8 {
+  padding: 8px;
+}
+
+:global .pad-16 {
+  padding: 16px;
+}
+
+:global .pad-32 {
+  padding: 32px;
+}
+
+:global .mar-a {
+  margin: auto;
+}
+
+:global .mar-h-4 {
+  margin: 4px 0;
+}
+
+:global .mar-h-8 {
+  margin: 8px 0;
+}
+
+:global .mar-h-16 {
+  margin: 16px 0;
+}
+:global .mar-w-4 {
+  margin: 0 4px;
+}
+
+:global .mar-w-8 {
+  margin: 0 8px;
+}
+
+:global .mar-w-16 {
+  margin: 0 16px;
+}
+
+:global .mar-0 {
+  margin: 0;
+}
+
+:global .mar-4 {
+  margin: 4px;
+}
+
+:global .mar-8 {
+  margin: 8px;
+}
+
+:global .mar-16 {
+  margin: 16px;
+}
+
+:global .naked-button {
+  background: none;
+  border: none;
+}
+
+:focus {
+  outline: none;
+}

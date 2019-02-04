@@ -1,0 +1,9 @@
+.App main {
+  padding: 16px;
+}
+
+.App-header {
+  background-color: #224180;
+  min-height: 60px;
+  color: white;
+}
