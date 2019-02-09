@@ -1,0 +1,32 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "CMS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodeCareerCoach/ReactStudioCMS.git"
+  },
+  "keywords": [
+    "React",
+    "CMS",
+    "API"
+  ],
+  "author": "Mike Kerr - CodeCareerCoach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeCareerCoach/ReactStudioCMS/issues"
+  },
+  "homepage": "https://github.com/CodeCareerCoach/ReactStudioCMS#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
