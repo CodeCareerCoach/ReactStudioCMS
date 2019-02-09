@@ -7,6 +7,8 @@ import { setViewWidth } from "./actions/viewActions";
 
 import Home from "./Components/Home/Home";
 
+import { sendRequest, methods } from "./utils/data";
+
 import "./App.css";
 import "./flex.css";
 import "./global.css";
@@ -15,6 +17,10 @@ class App extends Component {
   componentDidMount() {
     window.addEventListener("resize", this.handleResize);
     this.handleResize();
+
+    sendRequest(methods.GET, "http://localhost:8000/test").then(res => {
+      console.log("NodeJS Response", res);
+    });
   }
 
   handleResize = () => this.props.setViewWidth(window.innerWidth);
